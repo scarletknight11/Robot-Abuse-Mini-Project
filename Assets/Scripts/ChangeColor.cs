@@ -55,8 +55,6 @@ public class ChangeColor : MonoBehaviour {
         game17.GetComponent<MeshRenderer>().material = gb.GetComponent<MeshRenderer>().material;
         GameObject game18 = GameObject.Find("/Robot_Toy/Robot_Torso/Robot_Upperarm_Right/Robot_Lowerarm_Right/Robot_Hand_Right");
         game18.GetComponent<MeshRenderer>().material = gb.GetComponent<MeshRenderer>().material;
-
-
     }
 
     void OnMouseExit()
@@ -100,8 +98,5 @@ public class ChangeColor : MonoBehaviour {
         game17.GetComponent<MeshRenderer>().material = gb.GetComponent<MeshRenderer>().material;
         GameObject game18 = GameObject.Find("/Robot_Toy/Robot_Torso/Robot_Upperarm_Right/Robot_Lowerarm_Right/Robot_Hand_Right");
         game18.GetComponent<MeshRenderer>().material = gb.GetComponent<MeshRenderer>().material;
-
-
     }
-
 }

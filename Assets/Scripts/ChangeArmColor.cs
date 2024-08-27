@@ -14,6 +14,7 @@ public class ChangeArmColor : MonoBehaviour
     //Original Material
     public Material Originalcolor;
 
+    //When Mouse is over the object
     void OnMouseOver()
     {
         gb.GetComponent<MeshRenderer>().material = color;
@@ -23,6 +24,7 @@ public class ChangeArmColor : MonoBehaviour
         game2.GetComponent<MeshRenderer>().material = gb.GetComponent<MeshRenderer>().material;
     }
 
+    //When Mouse is exited over the object
     void OnMouseExit()
     {
         gb.GetComponent<MeshRenderer>().material = Originalcolor;

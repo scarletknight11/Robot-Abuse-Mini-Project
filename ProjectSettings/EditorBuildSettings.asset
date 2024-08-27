@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/RobotProject.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/RobotProject_MRTK.unity
+    guid: 9c0639476f9bc2c4f8b591837b2d30ee
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 5ec94fd8d9120fe4e9928b25c4bca6b5, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ca32c1ce5b8418f47b44c572a013ce31, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 34b5e45b3414a674a9533bea1e6570ef, type: 2}
