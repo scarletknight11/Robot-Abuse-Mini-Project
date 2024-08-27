@@ -7,6 +7,6 @@ Link 1: https://youtu.be/QSybzjV6AYw
 
 The other scene is 'Robot Project_MRTK' which works the same way except you can run the project Directly on Microsoft HoloLens 2 device
 
-Link 2: 
+Link 2: https://youtu.be/H_h9nKWMPn0 
 
 Unity Version: 2022.3.42f1
