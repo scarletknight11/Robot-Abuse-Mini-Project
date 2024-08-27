@@ -5,7 +5,7 @@ You can move the camera using the arrow keys and rotate it by pressing the R and
 
 Link 1: https://youtu.be/QSybzjV6AYw
 
-The other scene is 'Robot Project_MRTK' which works the same way except you can run the project Directly on Microsoft HoloLens 2 device
+The other scene is 'Robot Project_MRTK' which works the same way except you can run the project directly on Microsoft HoloLens 2 device
 
 Link 2: https://youtu.be/H_h9nKWMPn0 
 
